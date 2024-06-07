@@ -1,4 +1,4 @@
-module github.com/krishealty/KnockKnock
+module github.com/krishealty/knockknock
 
 go 1.15
 
