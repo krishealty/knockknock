@@ -5,7 +5,8 @@
 </p>
 
 # knockknock
-A simple tool to gather information about Website / DNS / Subdomains / Ports / Directories by enumeration of over 50000+ domains and sub-domains with simple commands.
+A simple tool to gather information about Website / DNS / Subdomains / Ports / Directories by enumeration of over 50000+ domains and sub-domains with simple commands. The Goal of knockknock is to provide an overview of the target in a short amount of time while maintaining the accuracy of results. Instead of executing several tools one after another it can provide similar results keeping dependencies small and simple.
+
 In the below command examples, change:
 - "target" with the target name
 - "domain" with fhe domain name
