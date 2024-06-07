@@ -5,7 +5,12 @@
 </p>
 
 # knockknock
-A web information gathering tool made in Go - DNS / Subdomains / Ports / Directories enumeration
+A simple tool to gather information about Website / DNS / Subdomains / Ports / Directories by enumeration of over 50000+ domains and sub-domains with simple commands.
+In the below command examples, change:
+- "target" with the target name
+- "domain" with fhe domain name
+
+Try changing the ports if program shows error during directories enumeration.
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
 
