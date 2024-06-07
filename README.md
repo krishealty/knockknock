@@ -12,8 +12,17 @@ A web information gathering tool made in Go - DNS / Subdomains / Ports / Directo
 # Installation
 ```
 git clone https://github.com/krishealty/knockknock
-cd KnockKnock
+```
+
+```
+cd knockknock
+```
+
+```
 go get
+```
+
+```
 make
 ```
 
