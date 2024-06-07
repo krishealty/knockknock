@@ -25,7 +25,7 @@ IF "%ARG%"=="fmt" (
 IF "%ARG%"=="remod" (
   del go.mod
   del go.sum
-  go mod init github.com/krishealty/KnockKnock
+  go mod init github.com/krishealty/knockknock
   go get
   GOTO Done
 )
