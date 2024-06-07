@@ -13,7 +13,7 @@ In the below command examples, change:
 
 Try changing the ports if program shows error during directories enumeration.
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://go.dev/)
 
 # Installation
 ```
