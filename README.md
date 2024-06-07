@@ -1,5 +1,7 @@
 <p align="center">
-    <img src=""kklogo.png" alt="knockknock logo">
+    
+ <img src="kklogo.png" alt="knockknock logo">
+    
 </p>
 
 # knockknock
